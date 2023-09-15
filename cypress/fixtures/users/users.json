@@ -1,0 +1,12 @@
+{
+    "first": {
+        "username": "testuser",
+        "name": "Test User",
+        "password": "Salainensalasana12321!"
+    },
+    "second": {
+        "username": "testuser2",
+        "name": "Test User Too",
+        "password": "Salainensalasana32123?"
+    }
+}
