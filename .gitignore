@@ -13,8 +13,6 @@ dist-ssr
 *.local
 .eslint*
 
-*/cypress/fixtures/*
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
